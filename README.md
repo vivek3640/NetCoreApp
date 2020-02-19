@@ -1,0 +1,2 @@
+# NetCoreApp
+.Net core app
