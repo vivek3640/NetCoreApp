@@ -1,0 +1,35 @@
+C:\Users\vivek.kumar1\Source\Repos\NetCoreApp\ADF ASPNETCoreApp\ADF ASPNETCoreApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\vivek.kumar1\Source\Repos\NetCoreApp\ADF ASPNETCoreApp\ADF ASPNETCoreApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\vivek.kumar1\Source\Repos\NetCoreApp\ADF ASPNETCoreApp\ADF ASPNETCoreApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\vivek.kumar1\Source\Repos\NetCoreApp\ADF ASPNETCoreApp\ADF ASPNETCoreApp\bin\Debug\netcoreapp3.1\ADF ASPNETCoreApp.exe
+C:\Users\vivek.kumar1\Source\Repos\NetCoreApp\ADF ASPNETCoreApp\ADF ASPNETCoreApp\bin\Debug\netcoreapp3.1\ADF ASPNETCoreApp.deps.json
+C:\Users\vivek.kumar1\Source\Repos\NetCoreApp\ADF ASPNETCoreApp\ADF ASPNETCoreApp\bin\Debug\netcoreapp3.1\ADF ASPNETCoreApp.runtimeconfig.json
+C:\Users\vivek.kumar1\Source\Repos\NetCoreApp\ADF ASPNETCoreApp\ADF ASPNETCoreApp\bin\Debug\netcoreapp3.1\ADF ASPNETCoreApp.runtimeconfig.dev.json
+C:\Users\vivek.kumar1\Source\Repos\NetCoreApp\ADF ASPNETCoreApp\ADF ASPNETCoreApp\bin\Debug\netcoreapp3.1\ADF ASPNETCoreApp.dll
+C:\Users\vivek.kumar1\Source\Repos\NetCoreApp\ADF ASPNETCoreApp\ADF ASPNETCoreApp\bin\Debug\netcoreapp3.1\ADF ASPNETCoreApp.pdb
+C:\Users\vivek.kumar1\Source\Repos\NetCoreApp\ADF ASPNETCoreApp\ADF ASPNETCoreApp\bin\Debug\netcoreapp3.1\ADF ASPNETCoreApp.Views.dll
+C:\Users\vivek.kumar1\Source\Repos\NetCoreApp\ADF ASPNETCoreApp\ADF ASPNETCoreApp\bin\Debug\netcoreapp3.1\ADF ASPNETCoreApp.Views.pdb
+C:\Users\vivek.kumar1\Source\Repos\NetCoreApp\ADF ASPNETCoreApp\ADF ASPNETCoreApp\obj\Debug\netcoreapp3.1\ADF ASPNETCoreApp.csprojAssemblyReference.cache
+C:\Users\vivek.kumar1\Source\Repos\NetCoreApp\ADF ASPNETCoreApp\ADF ASPNETCoreApp\obj\Debug\netcoreapp3.1\staticwebassets\ADF ASPNETCoreApp.StaticWebAssets.Manifest.cache
+C:\Users\vivek.kumar1\Source\Repos\NetCoreApp\ADF ASPNETCoreApp\ADF ASPNETCoreApp\obj\Debug\netcoreapp3.1\staticwebassets\ADF ASPNETCoreApp.StaticWebAssets.xml
+C:\Users\vivek.kumar1\Source\Repos\NetCoreApp\ADF ASPNETCoreApp\ADF ASPNETCoreApp\obj\Debug\netcoreapp3.1\ADF ASPNETCoreApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vivek.kumar1\Source\Repos\NetCoreApp\ADF ASPNETCoreApp\ADF ASPNETCoreApp\obj\Debug\netcoreapp3.1\ADF ASPNETCoreApp.RazorAssemblyInfo.cache
+C:\Users\vivek.kumar1\Source\Repos\NetCoreApp\ADF ASPNETCoreApp\ADF ASPNETCoreApp\obj\Debug\netcoreapp3.1\ADF ASPNETCoreApp.RazorAssemblyInfo.cs
+C:\Users\vivek.kumar1\Source\Repos\NetCoreApp\ADF ASPNETCoreApp\ADF ASPNETCoreApp\obj\Debug\netcoreapp3.1\ADF ASPNETCoreApp.AssemblyInfoInputs.cache
+C:\Users\vivek.kumar1\Source\Repos\NetCoreApp\ADF ASPNETCoreApp\ADF ASPNETCoreApp\obj\Debug\netcoreapp3.1\ADF ASPNETCoreApp.AssemblyInfo.cs
+C:\Users\vivek.kumar1\Source\Repos\NetCoreApp\ADF ASPNETCoreApp\ADF ASPNETCoreApp\obj\Debug\netcoreapp3.1\ADF ASPNETCoreApp.TagHelpers.input.cache
+C:\Users\vivek.kumar1\Source\Repos\NetCoreApp\ADF ASPNETCoreApp\ADF ASPNETCoreApp\obj\Debug\netcoreapp3.1\ADF ASPNETCoreApp.TagHelpers.output.cache
+C:\Users\vivek.kumar1\Source\Repos\NetCoreApp\ADF ASPNETCoreApp\ADF ASPNETCoreApp\obj\Debug\netcoreapp3.1\ADF ASPNETCoreApp.RazorCoreGenerate.cache
+C:\Users\vivek.kumar1\Source\Repos\NetCoreApp\ADF ASPNETCoreApp\ADF ASPNETCoreApp\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\vivek.kumar1\Source\Repos\NetCoreApp\ADF ASPNETCoreApp\ADF ASPNETCoreApp\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\vivek.kumar1\Source\Repos\NetCoreApp\ADF ASPNETCoreApp\ADF ASPNETCoreApp\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\vivek.kumar1\Source\Repos\NetCoreApp\ADF ASPNETCoreApp\ADF ASPNETCoreApp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\vivek.kumar1\Source\Repos\NetCoreApp\ADF ASPNETCoreApp\ADF ASPNETCoreApp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\vivek.kumar1\Source\Repos\NetCoreApp\ADF ASPNETCoreApp\ADF ASPNETCoreApp\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\vivek.kumar1\Source\Repos\NetCoreApp\ADF ASPNETCoreApp\ADF ASPNETCoreApp\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\vivek.kumar1\Source\Repos\NetCoreApp\ADF ASPNETCoreApp\ADF ASPNETCoreApp\obj\Debug\netcoreapp3.1\ADF ASPNETCoreApp.RazorTargetAssemblyInfo.cache
+C:\Users\vivek.kumar1\Source\Repos\NetCoreApp\ADF ASPNETCoreApp\ADF ASPNETCoreApp\obj\Debug\netcoreapp3.1\ADF ASPNETCoreApp.RazorTargetAssemblyInfo.cs
+C:\Users\vivek.kumar1\Source\Repos\NetCoreApp\ADF ASPNETCoreApp\ADF ASPNETCoreApp\obj\Debug\netcoreapp3.1\ADF ASPNETCoreApp.Views.pdb
+C:\Users\vivek.kumar1\Source\Repos\NetCoreApp\ADF ASPNETCoreApp\ADF ASPNETCoreApp\obj\Debug\netcoreapp3.1\ADF ASPNETCoreApp.dll
+C:\Users\vivek.kumar1\Source\Repos\NetCoreApp\ADF ASPNETCoreApp\ADF ASPNETCoreApp\obj\Debug\netcoreapp3.1\ADF ASPNETCoreApp.pdb
+C:\Users\vivek.kumar1\Source\Repos\NetCoreApp\ADF ASPNETCoreApp\ADF ASPNETCoreApp\obj\Debug\netcoreapp3.1\ADF ASPNETCoreApp.csproj.CopyComplete
