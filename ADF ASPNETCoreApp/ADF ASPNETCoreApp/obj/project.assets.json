@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vivek.kumar1\\Source\\Repos\\NetCoreApp\\ADF ASPNETCoreApp\\ADF ASPNETCoreApp\\ADF ASPNETCoreApp.csproj",
-      "projectName": "ADF ASPNETCoreApp",
-      "projectPath": "C:\\Users\\vivek.kumar1\\Source\\Repos\\NetCoreApp\\ADF ASPNETCoreApp\\ADF ASPNETCoreApp\\ADF ASPNETCoreApp.csproj",
+      "projectUniqueName": "C:\\Users\\vivek.kumar1\\Source\\Repos\\vivek3640\\NetCoreApp\\ADF ASPNETCoreApp\\ADF ASPNETCoreApp\\ADFASPNETCoreApp.csproj",
+      "projectName": "ADFASPNETCoreApp",
+      "projectPath": "C:\\Users\\vivek.kumar1\\Source\\Repos\\vivek3640\\NetCoreApp\\ADF ASPNETCoreApp\\ADF ASPNETCoreApp\\ADFASPNETCoreApp.csproj",
       "packagesPath": "C:\\Users\\vivek.kumar1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vivek.kumar1\\Source\\Repos\\NetCoreApp\\ADF ASPNETCoreApp\\ADF ASPNETCoreApp\\obj\\",
+      "outputPath": "C:\\Users\\vivek.kumar1\\Source\\Repos\\vivek3640\\NetCoreApp\\ADF ASPNETCoreApp\\ADF ASPNETCoreApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vivek.kumar1\\AppData\\Roaming\\NuGet\\NuGet.Config",

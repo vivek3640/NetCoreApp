@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ADF ASPNETCoreApp",
+    "\\ADF ASPNETCoreApp\\ADF ASPNETCoreApp"
   ],
+  "SelectedNode": "\\ADF ASPNETCoreApp\\ADF ASPNETCoreApp.sln",
   "PreviewInSolutionExplorer": false
 }
