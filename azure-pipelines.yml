@@ -11,7 +11,7 @@ pool:
   vmImage: 'windows-latest'
 
 variables:
-  solution: '**/*.sln'
+  solution: 'ADF ASPNETCoreApp/*.sln'
   buildPlatform: 'Any CPU'
   buildConfiguration: 'Release'
 
@@ -38,7 +38,7 @@ steps:
 - task: NuGetCommand@2
   inputs:
     command: 'pack'
-    packagesToPack: '**/*.sln'
+    packagesToPack: 'ADF ASPNETCoreApp/*.sln'
     packDestination: '$(Build.ArtifactStagingDirectory)'
 
 - task: PublishBuildArtifacts@1
