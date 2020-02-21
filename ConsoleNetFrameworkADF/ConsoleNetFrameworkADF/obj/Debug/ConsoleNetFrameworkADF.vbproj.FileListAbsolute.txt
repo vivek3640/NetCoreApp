@@ -1,0 +1,10 @@
+C:\Users\vivek.kumar1\Source\Repos\vivek3640\NetCoreApp\ConsoleNetFrameworkADF\ConsoleNetFrameworkADF\bin\Debug\ConsoleNetFrameworkADF.exe.config
+C:\Users\vivek.kumar1\Source\Repos\vivek3640\NetCoreApp\ConsoleNetFrameworkADF\ConsoleNetFrameworkADF\bin\Debug\ConsoleNetFrameworkADF.exe
+C:\Users\vivek.kumar1\Source\Repos\vivek3640\NetCoreApp\ConsoleNetFrameworkADF\ConsoleNetFrameworkADF\bin\Debug\ConsoleNetFrameworkADF.pdb
+C:\Users\vivek.kumar1\Source\Repos\vivek3640\NetCoreApp\ConsoleNetFrameworkADF\ConsoleNetFrameworkADF\bin\Debug\ConsoleNetFrameworkADF.xml
+C:\Users\vivek.kumar1\Source\Repos\vivek3640\NetCoreApp\ConsoleNetFrameworkADF\ConsoleNetFrameworkADF\obj\Debug\ConsoleNetFrameworkADF.vbprojAssemblyReference.cache
+C:\Users\vivek.kumar1\Source\Repos\vivek3640\NetCoreApp\ConsoleNetFrameworkADF\ConsoleNetFrameworkADF\obj\Debug\ConsoleNetFrameworkADF.Resources.resources
+C:\Users\vivek.kumar1\Source\Repos\vivek3640\NetCoreApp\ConsoleNetFrameworkADF\ConsoleNetFrameworkADF\obj\Debug\ConsoleNetFrameworkADF.vbproj.GenerateResource.cache
+C:\Users\vivek.kumar1\Source\Repos\vivek3640\NetCoreApp\ConsoleNetFrameworkADF\ConsoleNetFrameworkADF\obj\Debug\ConsoleNetFrameworkADF.exe
+C:\Users\vivek.kumar1\Source\Repos\vivek3640\NetCoreApp\ConsoleNetFrameworkADF\ConsoleNetFrameworkADF\obj\Debug\ConsoleNetFrameworkADF.xml
+C:\Users\vivek.kumar1\Source\Repos\vivek3640\NetCoreApp\ConsoleNetFrameworkADF\ConsoleNetFrameworkADF\obj\Debug\ConsoleNetFrameworkADF.pdb
