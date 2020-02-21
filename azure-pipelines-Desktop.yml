@@ -10,7 +10,7 @@ pool:
   vmImage: 'windows-latest'
 
 variables:
-  solution: '/ConsoleNetFrameworkADF/*.sln'
+  solution: 'ConsoleNetFrameworkADF/*.sln'
   buildPlatform: 'Any CPU'
   buildConfiguration: 'Release'
 
