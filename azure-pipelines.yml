@@ -39,9 +39,9 @@ steps:
   inputs:
     command: 'pack'
     packagesToPack: 'ADF ASPNETCoreApp/*.sln'
-    packDestination: '$(Build.ArtifactStagingDirectory)/Drop'
+    packDestination: '$(Build.ArtifactStagingDirectory)/drop'
 
 - task: PublishBuildArtifacts@1
   inputs:
-    pathtoPublish: '$(Build.ArtifactStagingDirectory)/Drop'
+    pathtoPublish: '$(Build.ArtifactStagingDirectory)/drop'
     artifactName: drop
