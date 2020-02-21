@@ -11,7 +11,7 @@ pool:
   vmImage: 'windows-latest'
 
 variables:
-  solution: '**/*.sln'
+  solution: 'ConsoleNetFrameworkADF/*.sln'
   buildPlatform: 'Any CPU'
   buildConfiguration: 'Release'
 
@@ -37,7 +37,7 @@ steps:
 - task: NuGetCommand@2
   inputs:
     command: 'pack'
-    packagesToPack: '**/*.csproj'
+    packagesToPack:  '$(solution)'
     packDestination: '$(Build.ArtifactStagingDirectory)'
 
 - task: PublishBuildArtifacts@1
