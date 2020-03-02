@@ -35,13 +35,3 @@ steps:
     configuration: '$(buildConfiguration)'
 
 
-- task: NuGetCommand@2
-  inputs:
-    command: 'pack'
-    packagesToPack: '**/*.sln'
-    packDestination: '$(Build.ArtifactStagingDirectory)/drop'
-
-- task: PublishBuildArtifacts@1
-  inputs:
-    pathtoPublish: '$(Build.ArtifactStagingDirectory)/drop'
-    artifactName: drop
